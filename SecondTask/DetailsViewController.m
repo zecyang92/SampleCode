@@ -25,7 +25,7 @@
 
 -(void)viewWillAppear:(BOOL)animated{
     
-    NSString *strHTML = [_dictHtml valueForKey:@"Value"];
+//    NSString *strHTML = [_dictHtml valueForKey:@"Value"];
     //[_webView loadHTMLString:strHTML baseURL:nil];
     
     
